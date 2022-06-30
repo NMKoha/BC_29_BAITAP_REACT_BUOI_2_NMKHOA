@@ -1,0 +1,41 @@
+.bg {
+    background-image: url(./../../public/images/background.jpg);
+    height: 100%;
+    background-size: cover;
+    /* background-color: aqua; */
+}
+
+.img {
+    z-index: 2;
+    position: absolute;
+    top: 70px;
+    right: 293px;
+    width: 15%;
+}
+
+.img2 {
+    width: 30%;
+    margin: 10px 0;
+    z-index: 1;
+    position: relative;
+}
+
+.bg1 {
+    width: 20%;
+    cursor: pointer;
+}
+
+.bg3 {
+    width: 9%;
+    cursor: pointer;
+}
+
+.bg2 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px
+}
+
+.a1 {
+    display: flex;
+}
